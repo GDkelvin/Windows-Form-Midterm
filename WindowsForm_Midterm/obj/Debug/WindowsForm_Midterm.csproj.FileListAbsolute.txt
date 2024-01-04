@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\WindowsForm_Midterm\WindowsForm_Midterm\bin\Debug\WindowsForm_Midterm.exe.config
+C:\Users\Admin\source\repos\WindowsForm_Midterm\WindowsForm_Midterm\bin\Debug\WindowsForm_Midterm.exe
+C:\Users\Admin\source\repos\WindowsForm_Midterm\WindowsForm_Midterm\bin\Debug\WindowsForm_Midterm.pdb
+C:\Users\Admin\source\repos\WindowsForm_Midterm\WindowsForm_Midterm\obj\Debug\WindowsForm_Midterm.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\WindowsForm_Midterm\WindowsForm_Midterm\obj\Debug\WindowsForm_Midterm.Properties.Resources.resources
+C:\Users\Admin\source\repos\WindowsForm_Midterm\WindowsForm_Midterm\obj\Debug\WindowsForm_Midterm.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\WindowsForm_Midterm\WindowsForm_Midterm\obj\Debug\WindowsForm_Midterm.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\WindowsForm_Midterm\WindowsForm_Midterm\obj\Debug\WindowsForm_Midterm.exe
+C:\Users\Admin\source\repos\WindowsForm_Midterm\WindowsForm_Midterm\obj\Debug\WindowsForm_Midterm.pdb
+C:\Users\Admin\source\repos\WindowsForm_Midterm\WindowsForm_Midterm\obj\Debug\WindowsForm_Midterm.TextBoxControl.resources
